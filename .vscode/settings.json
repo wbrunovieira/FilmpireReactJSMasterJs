@@ -2,5 +2,6 @@
     "editor.inlineSuggest.showToolbar": "onHover",
     "editor.fontSize": 16,
     "screencastMode.fontSize": 86,
-    "window.zoomLevel": 1
+    "window.zoomLevel": 1,
+    "git.ignoreLimitWarning": true
 }
